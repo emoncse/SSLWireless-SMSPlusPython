@@ -7,7 +7,7 @@ This repository contains a Python script for integrating with the SSL Wireless S
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/your_username/ssl-wireless-sms-python.git
+    git clone [https://github.com/emoncse/SSLWireless-SMSPlusPython.git](https://github.com/emoncse/SSLWireless-SMSPlusPython)
     cd ssl-wireless-sms-python
     ```
 
